@@ -1,0 +1,50 @@
+section {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background: white;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+  }
+  
+  .title {
+    border-bottom: rgba(182, 174, 174, 0.233) solid 20px;
+  }
+  
+  body {
+    background-image:url('https://image.winudf.com/v2/image1/Y29tLmVkc2FwcHMuZ2FtaW5nX3dhbGxwYXBlcnNfNGtfc2NyZWVuXzBfMTYxMzgyNjQ3Ml8wNDY/screen-0.jpg?fakeurl=1&type=.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .image {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .part {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: rgba(182, 174, 174, 0.233) solid 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-right:50px;
+    padding-left:50px;
+  }
+  
+  .btn {
+    margin: 20px;
+    cursor: pointer;
+    background-color:lightblue;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    border-radius: 10px;
+  }
+
+ 
